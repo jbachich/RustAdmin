@@ -67,7 +67,7 @@ Wood Stairs	1
 Wood Ramp	1
 Wood Ceiling	1
 Metal Pillar	1
-Metal Foundation	1
+Metal Foundation  1
 Metal Wall	1
 Metal Doorway	1
 Metal Window	1
@@ -75,3 +75,9 @@ Metal Stairs	1
 Metal Ramp	1
 Metal Ceiling	1
 Research Kit 1	1
+Large Spike Wall 1
+Spike Wall 1
+Wood Gate 1 
+Wood Gateway 1
+Cooked Chicken Breast 1 
+Wood 250
